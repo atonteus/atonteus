@@ -7,9 +7,7 @@
 )](antoniomateus@fractalbases.com)
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fractalbases.com/) 
 
-<br/>
-<h2> < Conhecimento nas seguintes tecnologias ></h2>
-
+<h2> < Tenho conhecimento nas seguintes tecnologias ></h2>
 <div style="display: inline_block"><br/>
 <img aligh= "center" alt= "html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img aligh= "center" alt= "css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
