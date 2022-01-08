@@ -3,7 +3,7 @@
 <h3>Me chamo Mateus, sou Desenvolvedor Full Stack, <br/>caso queira entrar em contato comigo, segue abaixo as informações.</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-mateus-samcardo9)
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](antoniomateus@fractalbases.com)
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fractalbases.com/) 
 
