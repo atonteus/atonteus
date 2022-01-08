@@ -14,7 +14,7 @@
 
 ## < Conhecimento nas seguintes tecnologias >
 
-<div style="display: inline_block"><br/>
+<br/>
 
 <img aligh= "center" alt= "html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 ">
@@ -35,9 +35,11 @@
 <img aligh= "center" alt= "mogodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 ">
 <img aligh= "center" alt= "reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-"></div>
+"></
 
 <br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atonteus)](https://github.com/anuraghazra/github-readme-stats)
+
+
