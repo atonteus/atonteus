@@ -35,12 +35,9 @@
 <img aligh= "center" alt= "mogodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 ">
 <img aligh= "center" alt= "reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-">
+"></div>
 
 <br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atonteus)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div><br/>
