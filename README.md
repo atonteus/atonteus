@@ -1,6 +1,6 @@
-<h1>  <blockquote>  ! Olá, boas-vindas ! 😃 </blockquote></h1>
+<h2>  <blockquote>  ! Olá, boas-vindas ! 😃 </blockquote></h2>
 
-<h2>Me chamo Mateus, sou Desenvolvedor Full Stack, <br/>caso queira entrar em contato comigo, segue abaixo as informações.</h2>
+<h2>Me chamo Mateus, sou Desenvolvedor Full Stack, <br/><br/>caso queira entrar em contato comigo, segue abaixo as informações.</h2>
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-mateus-samcardo9)
