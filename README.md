@@ -1,6 +1,6 @@
 <h2>  <blockquote>  ! Olá, boas-vindas ! 😃 </blockquote></h2>
 
-<h3><i>Me chamo Mateus, sou Desenvolvedor Full Stack, </i><br/><br/>caso queira entrar em contato comigo, segue abaixo as informações.</h3>
+<p><i>Me chamo Mateus, sou Desenvolvedor Full Stack, </i><br/>caso queira entrar em contato comigo, segue abaixo as informações.</p>
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-mateus-samcardo9)
@@ -8,7 +8,6 @@
 )](antoniomateus@fractalbases.com)
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fractalbases.com/) 
 
-<h3> < Tenho conhecimento nas seguintes tecnologias ></h3>
 <div style="display: inline_block"><br/>
 <img aligh= "center" alt= "html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img aligh= "center" alt= "css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
