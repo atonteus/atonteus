@@ -9,7 +9,7 @@
 
 
 <div style="display: inline_block"><br/>
-<p>A list of the technologies I use most often today":</p>
+<p>A list of the technologies I use most often today:</p>
 <img aligh= "center" alt= "ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img aligh= "center" alt= "js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img aligh= "center" alt= "react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
